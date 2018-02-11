@@ -76,7 +76,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     notificator(0),
     rpcConsole(0)
 {
-    setFixedSize(1089, 653);
+    setFixedSize(1090, 605);
     setWindowTitle(tr("Aswang") + " - " + tr("Wallet"));
 	qApp->setStyleSheet("QMainWindow { background-image:url(:images/bkg);border:none;font-family:'Open Sans,sans-serif'; }");
 #ifndef Q_OS_MAC
