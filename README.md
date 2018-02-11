@@ -40,3 +40,32 @@ Rewards POW and POS
 
 
 -----
+
+
+Other Rewards
+============
+
+- Get Aswang on 1 exchange: 1,000,000 
+- Get Aswang on 2 exchanges: 2,000,000
+- Get Aswang on 3 exchanges: 3,000,000
+
+NB: Exchange should have some trade, not 0 trade, or nearly 0 trade.
+
+
+If this is not achieved, you can buy Aswang to pay for a listing:
+
+
+- 3,000,000 ASWANG = 1 BTC, enough for CoinsExchange.
+
+
+
+-------
+
+
+Premine
+============
+
+
+2,000,000
+
+
